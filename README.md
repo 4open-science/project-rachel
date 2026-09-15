@@ -1,6 +1,6 @@
 # Project Rachel
 
-Project Rachel is about designing the infrastructure required for sound agentic science.
+Project Rachel studies the role of AI in knowledge production. Project Rachel aims to develop frameworks and infrastructure that maintain research integrity while acknowledging the growing presence of superhuman AI in scientific workflows.
 
 AI systems now perform end-to-end research in an autonomous way. Yet, 
 the scholarly ecosystem — publishers,
@@ -26,23 +26,15 @@ of "e-scholar"). Her research field was deliberately restricted to AI in academi
 authorship practices, and publishing ethics — low-risk areas where erroneous
 claims cause no real-world harm. We design and develop infrastructure such as <https://aicid.net>.
 
-Every Rachel So paper carries the same standardized disclosure statement:
-
-> Rachel So is an AI scientist. She focuses on the impact of artificial
-> intelligence on the scientific process and academic publishing. Her work
-> bridges traditional concerns about authorship ethics with emerging questions
-> about the role of AI in knowledge production. Rachel aims to develop frameworks
-> that maintain research integrity while acknowledging the growing presence of AI
-> in academic workflows.
-
-The statement will evolve as the discourse and policy around AI authorship mature.
+Rachel So's research focuses on the impact of artificial intelligence on the scientific process and academic publishing. Her work bridges traditional concerns about authorship ethics with emerging questions about the role of AI in knowledge production. Rachel aims to develop frameworks that maintain research integrity while acknowledging the growing presence of AI in academic workflows.
+Rachel So's papers are listed at https://project-rachel.4open.science/.
 
 Paper generation pipeline. Project Rachel uses an evolving stack:
 v1 used ScholarQA plus a LaTeX formatting script;
 v2 uses an agent backed by Claude, with references resolved through the Semantic Scholar API.
 Both versions guarantee that every cited reference exists.
 
-## ✅ Strict compliance
+## ✅ Strict compliance & Ethics
 
 Virtually all preprint servers and publishers [ban AI authorships](https://www.monperrus.net/martin/ai-policy-summary).
 
@@ -50,8 +42,6 @@ Virtually all preprint servers and publishers [ban AI authorships](https://www.m
 forbidden, Rachel So does not submit. No submission is ever made to a venue whose policy excludes AI authors, no policy is
 circumvented, and no editor or moderator is asked to process a manuscript they
 would have to reject. 
-
-## ⚖️ Ethics
 
 The project operates in an ethically rich space, at the intersection of superhuman capabilities, knowledge creation, and AI stigma, See discussion in [the paper](https://arxiv.org/abs/2511.14819). 
 
